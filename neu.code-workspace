@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Schreiben und Sprechen/Schreiben_und_Sprechen-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VORLAGE_IntMed_II"
+	}
+}
